@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+vaderSentiment
+gtts
+streamlit
+fastapi
+uvicorn
+nltk
+spacy
+rpds
+pandas==2.2.3
+pyarrow==16.1.0
+numpy==1.26.4
+nltk
